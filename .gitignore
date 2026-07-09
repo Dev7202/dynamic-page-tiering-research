@@ -1,2 +1,4 @@
-_pycache_/
+src/results/monitoring/*.csv
+src/results/policy/*.csv
+src/results/migration/*.csv_pycache_/
 *.pyc
